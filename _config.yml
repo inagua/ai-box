@@ -16,7 +16,7 @@ defaults:
       layout: "technology"
 
 markdown: kramdown
-theme: minima # We use custom CSS and layouts instead.
+theme: jekyll-theme-minima # We use custom CSS and layouts instead.
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
