@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "LangChain"
-status: "Active"
+status: "ToReview"
 category: "Framework"
 website: "https://www.langchain.com"
 ---

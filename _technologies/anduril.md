@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Anduril Industries"
-status: "Active"
+status: "ToReview"
 category: "Company"
 website: "https://www.anduril.com"
 ---

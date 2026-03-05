@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Large Language Models (LLM)"
-status: "Active"
+status: "ToReview"
 category: "Glossary"
 website: "https://en.wikipedia.org/wiki/Large_language_model"
 ---

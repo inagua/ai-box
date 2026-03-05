@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "GPT-4 (OpenAI)"
-status: "Active"
+status: "ToReview"
 version: "o1"
 category: "LLM"
 release_date: "September 12, 2024"

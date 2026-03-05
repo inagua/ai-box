@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Google DeepMind"
-status: "Active"
+status: "ToReview"
 category: "Company"
 website: "https://deepmind.google"
 ---

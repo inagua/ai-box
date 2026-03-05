@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Llama (Meta)"
-status: "Active"
+status: "ToReview"
 version: "3.1"
 category: "LLM"
 release_date: "July 23, 2024"

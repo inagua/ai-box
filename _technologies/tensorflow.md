@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "TensorFlow"
-status: "Active"
+status: "ToReview"
 category: "Machine Learning Framework"
 website: "https://www.tensorflow.org"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Anthropic"
-status: "Active"
+status: "ToReview"
 category: "Company"
 website: "https://www.anthropic.com"
 ---

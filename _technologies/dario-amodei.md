@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Dario Amodei"
-status: "Active"
+status: "ToReview"
 category: "Person"
 website: "https://www.anthropic.com"
 ---

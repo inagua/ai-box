@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Demis Hassabis"
-status: "Active"
+status: "ToReview"
 category: "Person"
 website: "https://deepmind.google"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Jensen Huang"
-status: "Active"
+status: "ToReview"
 category: "Person"
 website: "https://www.nvidia.com"
 ---

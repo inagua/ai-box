@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Yann LeCun"
-status: "Active"
+status: "ToReview"
 category: "Person"
 website: "http://yann.lecun.com"
 ---

@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Sam Altman"
-status: "Active"
+status: "ToReview"
 category: "Person"
 website: "https://openai.com"
 ---

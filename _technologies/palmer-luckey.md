@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Palmer Luckey"
-status: "Active"
+status: "ToReview"
 category: "Person"
 website: "https://www.anduril.com"
 ---

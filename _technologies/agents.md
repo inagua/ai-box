@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "AI Agents"
-status: "Active"
+status: "ToReview"
 category: "Glossary"
 website: "https://en.wikipedia.org/wiki/Software_agent"
 ---

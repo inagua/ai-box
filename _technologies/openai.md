@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "OpenAI"
-status: "Active"
+status: "ToReview"
 category: "Company"
 website: "https://openai.com"
 ---

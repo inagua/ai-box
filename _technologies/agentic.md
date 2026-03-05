@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Agentic"
-status: "Active"
+status: "ToReview"
 category: "Agentic"
 website: "https://en.wikipedia.org/wiki/Agentic_AI"
 ---

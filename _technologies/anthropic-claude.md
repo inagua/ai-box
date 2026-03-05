@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Claude (Anthropic)"
-status: "Active"
+status: "ToReview"
 version: "3.5 Sonnet"
 category: "LLM"
 release_date: "June 20, 2024"

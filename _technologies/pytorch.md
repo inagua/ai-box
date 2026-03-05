@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "PyTorch"
-status: "Active"
+status: "ToReview"
 category: "Machine Learning Framework"
 website: "https://pytorch.org"
 ---

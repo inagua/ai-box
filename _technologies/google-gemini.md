@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Gemini (Google)"
-status: "Active"
+status: "ToReview"
 version: "1.5 Pro"
 category: "LLM"
 release_date: "February 15, 2024"

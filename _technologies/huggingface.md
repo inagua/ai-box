@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Hugging Face"
-status: "Active"
+status: "ToReview"
 category: "Platform & Community"
 website: "https://huggingface.co"
 ---
