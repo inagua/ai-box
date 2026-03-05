@@ -86,3 +86,18 @@ To make this project visible on the web using GitHub Pages:
 - **Adding new technologies**: Simply add a new `.md` file to the `_technologies` folder following the existing template.
 - **Changing Styles**: Modify `assets/css/style.css` to update the visual design.
 - **Updating Metadata**: Edit `_config.yml` to change the site title, description, or other global settings.
+
+---
+
+## 🏗️ Build Management
+
+The site includes a build numbering system displayed in the footer. Before committing your changes, you should update this build number:
+
+1. **Run the update script:**
+   ```bash
+   ./tools/update_build.sh
+   ```
+   This script increments the `build_number` stored in `_config.yml`.
+
+2. **Include the change in your commit:**
+   Make sure to stage and commit the updated `_config.yml` alongside your other changes.

@@ -1,6 +1,7 @@
 title: "AI Hub - Technologies and Tools"
 description: "A comprehensive project with information on all main tools and technologies in AI."
 baseurl: "/ai-box" # the subpath of your site, e.g. /blog
+#baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 collections:
@@ -20,3 +21,4 @@ theme: minima # We use custom CSS and layouts instead.
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+build_number: 9
