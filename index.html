@@ -17,7 +17,7 @@ title: "AI Hub - Tools & Technologies"
         </div>
 
         <div class="search-container">
-            <input type="text" id="tech-search" placeholder="Search technologies, companies, or persons..." aria-label="Search technologies">
+            <input type="text" id="tech-search" placeholder="Search technologies, companies, people, or status..." aria-label="Search technologies">
         </div>
     </div>
 </section>
@@ -50,9 +50,13 @@ title: "AI Hub - Tools & Technologies"
             cards.forEach(card => {
                 const name = card.querySelector('h3').textContent.toLowerCase();
                 const category = card.querySelector('.badge.category').textContent.toLowerCase();
+                const status = card.querySelector('.badge[class*="status-"]').textContent.toLowerCase();
                 const description = card.querySelector('.card-description').textContent.toLowerCase();
 
-                if (name.includes(searchTerm) || category.includes(searchTerm) || description.includes(searchTerm)) {
+                if (name.includes(searchTerm) || 
+                    category.includes(searchTerm) || 
+                    status.includes(searchTerm) || 
+                    description.includes(searchTerm)) {
                     card.style.display = 'flex';
                 } else {
                     card.style.display = 'none';

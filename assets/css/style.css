@@ -171,6 +171,7 @@ body {
 }
 
 .badge.status-active { background: #dcfce7; color: #166534; }
+.badge.status-todo { background: #fee2e2; color: #991b1b; }
 .badge.category { background: var(--badge-bg); color: var(--badge-text); }
 .badge.category.linkable { text-decoration: none; transition: background 0.2s; }
 .badge.category.linkable:hover { background: #bfdbfe; }
