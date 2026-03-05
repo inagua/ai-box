@@ -1,8 +1,10 @@
 ---
 layout: technology
-name: "OpenAI GPT-4"
+name: "GPT-4 (OpenAI)"
 status: "Active"
-category: "Large Language Model (LLM)"
+version: "o1"
+category: "LLM"
+release_date: "September 12, 2024"
 website: "https://openai.com"
 ---
 

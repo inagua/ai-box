@@ -17,6 +17,9 @@ layout: default
             <a href="{{ tech.url | relative_url }}" class="card">
                 <div class="card-meta">
                     <span class="badge status-{{ tech.status | slugify }}">{{ tech.status }}</span>
+                    {% if tech.version %}
+                    <span class="badge version">v{{ tech.version }}</span>
+                    {% endif %}
                     <span class="badge category">{{ tech.category }}</span>
                 </div>
                 <h3>{{ tech.name }}</h3>

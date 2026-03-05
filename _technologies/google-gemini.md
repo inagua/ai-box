@@ -1,8 +1,10 @@
 ---
 layout: technology
-name: "Google Gemini"
+name: "Gemini (Google)"
 status: "Active"
-category: "Large Language Model (LLM)"
+version: "1.5 Pro"
+category: "LLM"
+release_date: "February 15, 2024"
 website: "https://gemini.google.com"
 ---
 

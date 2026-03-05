@@ -1,8 +1,10 @@
 ---
 layout: technology
-name: "Meta Llama"
+name: "Llama (Meta)"
 status: "Active"
-category: "Large Language Model (LLM)"
+version: "3.1"
+category: "LLM"
+release_date: "July 23, 2024"
 website: "https://llama.meta.com"
 ---
 

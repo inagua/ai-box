@@ -1,6 +1,6 @@
 ---
 layout: category
-category_name: "Large Language Model (LLM)"
-title: "Large Language Models (LLM)"
+category_name: "LLM"
+title: "LLM"
 permalink: /categories/large-language-model-llm/
 ---

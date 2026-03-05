@@ -8,6 +8,12 @@ layout: default
             <h1>{{ page.name }}</h1>
             <div class="tech-metadata">
                 <span class="badge status-{{ page.status | slugify }}">{{ page.status }}</span>
+                {% if page.version %}
+                <span class="badge version">v{{ page.version }}</span>
+                {% endif %}
+                {% if page.release_date %}
+                <span class="badge release-date">Released: {{ page.release_date }}</span>
+                {% endif %}
                 <a href="{{ site.baseurl }}/categories/{{ page.category | slugify }}/" class="badge category linkable">{{ page.category }}</a>
             </div>
         </header>

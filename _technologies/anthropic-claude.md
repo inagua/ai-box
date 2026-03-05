@@ -1,8 +1,10 @@
 ---
 layout: technology
-name: "Anthropic Claude"
+name: "Claude (Anthropic)"
 status: "Active"
-category: "Large Language Model (LLM)"
+version: "3.5 Sonnet"
+category: "LLM"
+release_date: "June 20, 2024"
 website: "https://www.anthropic.com"
 ---
 
