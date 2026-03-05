@@ -77,7 +77,7 @@ To make this project visible on the web using GitHub Pages:
    GitHub Actions will automatically trigger a build process. You can monitor this in the **Actions** tab.
 
 4. **Visit your site:**
-   Once the build is complete, your site will be available at `https://<your-username>.github.io/<repository-name>/`.
+   Once the build is complete, your site will be available at `https://inagua.github.io/ai-box/`.
 
 ---
 

@@ -8,7 +8,7 @@ layout: default
             <h1>{{ page.name }}</h1>
             <div class="tech-metadata">
                 <span class="badge status-{{ page.status | slugify }}">{{ page.status }}</span>
-                <span class="badge category">{{ page.category }}</span>
+                <a href="{{ site.baseurl }}/categories/{{ page.category | slugify }}/" class="badge category linkable">{{ page.category }}</a>
             </div>
         </header>
 

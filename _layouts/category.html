@@ -1,27 +1,19 @@
 ---
 layout: default
-title: "AI Hub - Tools & Technologies"
 ---
 
 <section class="hero">
     <div class="container">
-        <h1>Explore the AI Landscape</h1>
-        <p>A curated list of the most important tools, technologies, and models in Artificial Intelligence.</p>
-        
-        <div class="categories-nav">
-            <span class="nav-label">Browse by category:</span>
-            {% assign categories_pages = site.pages | where: "layout", "category" | sort: "category_name" %}
-            {% for cat_page in categories_pages %}
-            <a href="{{ cat_page.url | relative_url }}" class="badge category linkable">{{ cat_page.category_name }}</a>
-            {% endfor %}
-        </div>
+        <h1>Category: {{ page.category_name }}</h1>
+        <p>A curated list of tools, technologies, and models in the <strong>{{ page.category_name }}</strong> category.</p>
     </div>
 </section>
 
 <section class="technologies-list">
     <div class="container">
         <div class="tech-grid">
-            {% for tech in site.technologies %}
+            {% assign filtered_techs = site.technologies | where: "category", page.category_name %}
+            {% for tech in filtered_techs %}
             <a href="{{ tech.url | relative_url }}" class="card">
                 <div class="card-meta">
                     <span class="badge status-{{ tech.status | slugify }}">{{ tech.status }}</span>
@@ -31,6 +23,10 @@ title: "AI Hub - Tools & Technologies"
                 <p class="card-description">{{ tech.content | strip_html | truncatewords: 25 }}</p>
             </a>
             {% endfor %}
+        </div>
+        
+        <div class="tech-footer">
+            <a href="{{ "/" | relative_url }}" class="btn secondary-btn">Back to All Tools</a>
         </div>
     </div>
 </section>
