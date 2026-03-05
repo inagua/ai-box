@@ -1,0 +1,28 @@
+---
+layout: default
+title: "AI Hub - Tools & Technologies"
+---
+
+<section class="hero">
+    <div class="container">
+        <h1>Explore the AI Landscape</h1>
+        <p>A curated list of the most important tools, technologies, and models in Artificial Intelligence.</p>
+    </div>
+</section>
+
+<section class="technologies-list">
+    <div class="container">
+        <div class="tech-grid">
+            {% for tech in site.technologies %}
+            <a href="{{ tech.url | relative_url }}" class="card">
+                <div class="card-meta">
+                    <span class="badge status-{{ tech.status | slugify }}">{{ tech.status }}</span>
+                    <span class="badge category">{{ tech.category }}</span>
+                </div>
+                <h3>{{ tech.name }}</h3>
+                <p class="card-description">{{ tech.content | strip_html | truncatewords: 25 }}</p>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>

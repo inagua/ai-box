@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<article class="technology-page">
+    <div class="container">
+        <header class="tech-header">
+            <h1>{{ page.name }}</h1>
+            <div class="tech-metadata">
+                <span class="badge status-{{ page.status | slugify }}">{{ page.status }}</span>
+                <span class="badge category">{{ page.category }}</span>
+            </div>
+        </header>
+
+        <section class="tech-content">
+            {{ content }}
+        </section>
+
+        <footer class="tech-footer">
+            <a href="{{ page.website }}" class="btn primary-btn" target="_blank">Visit Official Site</a>
+            <a href="{{ "/" | relative_url }}" class="btn secondary-btn">Back to All Tools</a>
+        </footer>
+    </div>
+</article>

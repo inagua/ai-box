@@ -1,0 +1,22 @@
+title: "AI Hub - Technologies and Tools"
+description: "A comprehensive project with information on all main tools and technologies in AI."
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+collections:
+  technologies:
+    output: true
+    permalink: /technologies/:path/
+
+defaults:
+  - scope:
+      path: ""
+      type: "technologies"
+    values:
+      layout: "technology"
+
+markdown: kramdown
+theme: minima # We use custom CSS and layouts instead.
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
