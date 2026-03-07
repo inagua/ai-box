@@ -15,6 +15,11 @@ layout: default
                 <span class="badge release-date">Released: {{ page.release_date }}</span>
                 {% endif %}
                 <a href="{{ site.baseurl }}/categories/{{ page.category | slugify }}/" class="badge category linkable">{{ page.category }}</a>
+                {% if page.tags %}
+                    {% for tag in page.tags %}
+                    <a href="{{ site.baseurl }}/tags/{{ tag | slugify }}/" class="badge tag linkable">{{ tag }}</a>
+                    {% endfor %}
+                {% endif %}
             </div>
         </header>
 

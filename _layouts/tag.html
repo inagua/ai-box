@@ -4,15 +4,15 @@ layout: default
 
 <section class="hero">
     <div class="container">
-        <h1>Category: {{ page.category_name }}</h1>
-        <p>A curated list of tools, technologies, and models in the <strong>{{ page.category_name }}</strong> category.</p>
+        <h1>Tag: {{ page.tag_name }}</h1>
+        <p>A curated list of tools, technologies, and models tagged with <strong>{{ page.tag_name }}</strong>.</p>
     </div>
 </section>
 
 <section class="technologies-list">
     <div class="container">
         <div class="tech-grid">
-            {% assign filtered_techs = site.technologies | where: "category", page.category_name %}
+            {% assign filtered_techs = site.technologies | where_exp: "item", "item.tags contains page.tag_name" %}
             {% for tech in filtered_techs %}
             <a href="{{ tech.url | relative_url }}" class="card">
                 <div class="card-meta">

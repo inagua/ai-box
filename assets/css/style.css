@@ -192,13 +192,22 @@ body {
 .badge.version { background: #f3f4f6; color: #374151; }
 .badge.release-date { background: #f3f4f6; color: #374151; }
 .badge.category { background: var(--badge-bg); color: var(--badge-text); }
-.badge.category.linkable { text-decoration: none; transition: background 0.2s; }
+.badge.tag { background: #f3e8ff; color: #6b21a8; }
+.badge.category.linkable, .badge.tag.linkable { text-decoration: none; transition: background 0.2s; }
 .badge.category.linkable:hover { background: #bfdbfe; }
+.badge.tag.linkable:hover { background: #e9d5ff; }
 
 .card-description {
     font-size: 0.95rem;
     color: var(--secondary-color);
     flex-grow: 1;
+}
+
+.card-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-top: 1rem;
 }
 
 /* Technology Detail Page */

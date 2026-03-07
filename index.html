@@ -16,6 +16,14 @@ title: "AI Hub - Tools & Technologies"
             {% endfor %}
         </div>
 
+        <div class="categories-nav">
+            <span class="nav-label">Browse by tag:</span>
+            {% assign tags_pages = site.pages | where: "layout", "tag" | sort: "tag_name" %}
+            {% for tag_page in tags_pages %}
+            <a href="{{ tag_page.url | relative_url }}" class="badge tag linkable">{{ tag_page.tag_name }}</a>
+            {% endfor %}
+        </div>
+
         <div class="search-container">
             <input type="text" id="tech-search" placeholder="Search technologies, companies, people, or status..." aria-label="Search technologies">
         </div>
@@ -36,6 +44,13 @@ title: "AI Hub - Tools & Technologies"
                 </div>
                 <h3>{{ tech.name }}</h3>
                 <p class="card-description">{{ tech.content | strip_html | truncatewords: 25 }}</p>
+                {% if tech.tags %}
+                <div class="card-tags">
+                    {% for tag in tech.tags %}
+                    <span class="badge tag">{{ tag }}</span>
+                    {% endfor %}
+                </div>
+                {% endif %}
             </a>
             {% endfor %}
         </div>
@@ -55,11 +70,13 @@ title: "AI Hub - Tools & Technologies"
                 const category = card.querySelector('.badge.category').textContent.toLowerCase();
                 const status = card.querySelector('.badge[class*="status-"]').textContent.toLowerCase();
                 const description = card.querySelector('.card-description').textContent.toLowerCase();
+                const tags = Array.from(card.querySelectorAll('.badge.tag')).map(tag => tag.textContent.toLowerCase()).join(' ');
 
                 if (name.includes(searchTerm) || 
                     category.includes(searchTerm) || 
                     status.includes(searchTerm) || 
-                    description.includes(searchTerm)) {
+                    description.includes(searchTerm) ||
+                    tags.includes(searchTerm)) {
                     card.style.display = 'flex';
                 } else {
                     card.style.display = 'none';

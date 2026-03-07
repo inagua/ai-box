@@ -21,4 +21,4 @@ theme: minima # We use custom CSS and layouts instead.
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-build_number: 22
+build_number: 23

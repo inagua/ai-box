@@ -3,6 +3,7 @@ layout: technology
 name: "Spec-Driven Development (SDD)"
 status: "Detailed"
 category: "Glossary"
+tags: ["vibe-coding"]
 website: "https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html"
 ---
 
