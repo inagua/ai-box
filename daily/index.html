@@ -1,0 +1,38 @@
+---
+layout: default
+title: "Daily AI Archives"
+---
+
+<section class="hero">
+    <div class="container">
+        <h1>Daily Archives</h1>
+        <p>Find all daily AI news summaries, tools, and resources presented each day.</p>
+        
+        <div class="categories-nav">
+            <a href="{{ '/' | relative_url }}" class="badge category linkable">Back to home</a>
+        </div>
+    </div>
+</section>
+
+<section class="daily-archives">
+    <div class="container">
+        <div class="tech-grid">
+            {% assign daily_pages = site.pages | where_exp: "item", "item.path contains 'daily/'" | where_exp: "item", "item.name != 'index.html'" | sort: "date" | reverse %}
+            {% for page in daily_pages %}
+            <a href="{{ page.url | relative_url }}" class="card">
+                <div class="card-meta">
+                    <span class="badge release-date">{{ page.date | date: "%B %d, %Y" }}</span>
+                </div>
+                <h3>{{ page.title }}</h3>
+                <div class="card-description" style="font-size: 0.9rem; margin-top: 1rem;">
+                    <p><strong>📰 News:</strong> {{ page.news_summary }}</p>
+                    <p><strong>📚 Resource:</strong> {{ page.resource }}</p>
+                    <p><strong>🛠️ Tool:</strong> {{ page.tool }}</p>
+                    <p><strong>👤 Person:</strong> {{ page.person }}</p>
+                    <p><strong>💡 Technology:</strong> {{ page.technology }}</p>
+                </div>
+            </a>
+            {% endfor %}
+        </div>
+    </div>
+</section>

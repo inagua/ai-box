@@ -2,6 +2,17 @@
 
 A comprehensive GitHub Pages project showcasing the most significant tools, technologies, and models in the field of Artificial Intelligence.
 
+## 📋 Table of Contents
+- [🚀 Project Overview](#-project-overview)
+  - [Directory Structure](#directory-structure)
+- [💻 Local Development](#-local-development)
+  - [Prerequisites](#prerequisites)
+  - [Steps](#steps)
+- [🌐 Deploying to GitHub Pages](#-deploying-to-github-pages)
+- [🛠️ Customization](#-customization)
+- [🏗️ Build Management](#-build-management)
+- [📅 Daily Newsletter](#daily-newsletter)
+
 ## 🚀 Project Overview
 
 This project provides a professional, well-designed directory of AI technologies. Each entry includes:
@@ -102,3 +113,25 @@ The site includes a build numbering system displayed in the footer. Before commi
 
 2. **Include the change in your commit:**
    Make sure to stage and commit the updated `_config.yml` alongside your other changes.
+
+---
+
+## Daily Newsletter
+
+Prompt used to generate daily pages:
+
+```
+Generate a page in "/daily" root folder with the current date as file name (YYYYMMDD.md) containing content regarding AI:
+- Ideally in French, elsewhere in English
+- At most 3 important news with the title, a brief description and a link to the detailed description
+- The presentation of one resource, with its name, a brief description and the link to the resource
+- The presentation of one tool, regardless the category of the tool, with its name, its company, a brief description, the link to the tool and to the associated page under _technologies folder
+- The presentation of one key person of the AI, with its name, a brief description and the link to his main resource and to the associated page under _technologies folder
+- One topic or skill or practice or technology that is important to know, like LLM, RAG, Agentic... with a short presentation, a link to a detailled presentation and a link to the associated page under _technologies folder. Can be just one part of this topic, and the other parts can be handled in a future summary.
+Update the root index.html file with the link to the new page.
+```
+
+### 📅 Daily Archives
+
+- [**View the daily archives index**](daily/)
+- [March 24, 2026](daily/20260324.md)
