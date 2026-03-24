@@ -51,6 +51,7 @@ To run this project on your local machine, follow these steps:
 4. **Start the Jekyll server:**
    ```bash
    bundle exec jekyll serve
+   jekyll serve --watch
    ```
 
 5. **View the site:**
