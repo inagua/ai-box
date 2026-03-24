@@ -24,12 +24,12 @@ title: "Daily AI Archives"
                     <span class="badge release-date">{{ page.date | date: "%B %d, %Y" }}</span>
                 </div>
                 <h3>{{ page.title }}</h3>
-                <div class="card-description" style="font-size: 0.9rem; margin-top: 1rem;">
-                    <p><strong>📰 News:</strong> {{ page.news_summary }}</p>
-                    <p><strong>📚 Resource:</strong> {{ page.resource }}</p>
-                    <p><strong>🛠️ Tool:</strong> {{ page.tool }}</p>
-                    <p><strong>👤 Person:</strong> {{ page.person }}</p>
-                    <p><strong>💡 Technology:</strong> {{ page.technology }}</p>
+                <div class="card-description" style="font-size: 0.9rem; margin-top: 1rem; display: flex; flex-direction: column; gap: 0.5rem;">
+                    <div><span class="badge status-detailed" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">News</span> {{ page.news_summary }}</div>
+                    <div><span class="badge category" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Resource</span> {{ page.resource }}</div>
+                    <div><span class="badge tag" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Tool</span> {{ page.tool }}</div>
+                    <div><span class="badge version" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Person</span> {{ page.person }}</div>
+                    <div><span class="badge status-toreview" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Topic</span> {{ page.technology }}</div>
                 </div>
             </a>
             {% endfor %}

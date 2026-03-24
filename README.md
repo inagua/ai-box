@@ -29,6 +29,12 @@ The project is built using **Jekyll**, a static site generator that is natively 
 
 ---
 
+## ONLINE VERSION
+
+- https://inagua.github.io/ai-box/
+
+---
+
 ## 💻 Local Development
 
 To run this project on your local machine, follow these steps:

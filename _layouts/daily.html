@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<article class="daily-page">
+    <div class="container">
+        <header class="tech-header">
+            <h1>{{ page.title }}</h1>
+            <div class="tech-metadata">
+                <span class="badge release-date">{{ page.date | date: "%B %d, %Y" }}</span>
+            </div>
+        </header>
+
+        <section class="daily-content">
+            {{ content }}
+        </section>
+
+        <footer class="tech-footer" style="margin-top: 3rem; padding-top: 2rem; border-top: 1px solid var(--border-color);">
+            <a href="{{ '/daily/' | relative_url }}" class="btn secondary-btn">Back to Archives</a>
+            <a href="{{ '/' | relative_url }}" class="btn primary-btn">Back to Home</a>
+        </footer>
+    </div>
+</article>
