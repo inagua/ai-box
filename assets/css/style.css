@@ -210,6 +210,135 @@ body {
     margin-top: 1rem;
 }
 
+/* Chuck Norris Section */
+.chuck-norris-section {
+    display: flex;
+    align-items: center;
+    background: #1e293b; /* Darker background to make it stand out */
+    color: #f8fafc;
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+    gap: 1.5rem;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    border-left: 6px solid #ef4444; /* Red stripe for a bit of "action" */
+}
+
+.chuck-norris-img {
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid #f8fafc;
+    flex-shrink: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.chuck-norris-content {
+    flex-grow: 1;
+}
+
+.chuck-norris-quote {
+    font-size: 1.15rem;
+    font-style: italic;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+    font-family: 'Inter', Georgia, serif;
+}
+
+.chuck-norris-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.75rem;
+    font-size: 0.85rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    padding-top: 0.5rem;
+}
+
+.chuck-norris-rip {
+    font-weight: 800;
+    text-transform: uppercase;
+    color: #ef4444;
+    letter-spacing: 0.1em;
+}
+
+.chuck-norris-status {
+    opacity: 0.7;
+    background: rgba(255, 255, 255, 0.1);
+    padding: 0.1rem 0.5rem;
+    border-radius: 4px;
+}
+
+/* AI Personality Section */
+.ai-personality-section {
+    display: flex;
+    align-items: center;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    padding: 1.5rem;
+    border-radius: 12px;
+    margin: 2rem 0;
+    gap: 1.5rem;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
+}
+
+.ai-personality-img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+    border: 3px solid var(--primary-color);
+    box-shadow: 0 0 10px rgba(59, 130, 246, 0.2);
+}
+
+.ai-personality-content {
+    flex-grow: 1;
+}
+
+.ai-personality-name {
+    font-size: 1.25rem;
+    font-weight: 700;
+    margin-bottom: 0.25rem;
+    color: var(--text-color);
+    display: block;
+}
+
+.ai-personality-description {
+    font-size: 0.95rem;
+    color: var(--secondary-color);
+    margin-bottom: 0.75rem;
+    line-height: 1.5;
+}
+
+.ai-personality-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 0.85rem;
+    border-top: 1px solid var(--border-color);
+    padding-top: 0.75rem;
+}
+
+.ai-personality-links a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.ai-personality-links a:hover {
+    text-decoration: underline;
+}
+
+.ai-personality-status {
+    background: #f1f5f9;
+    padding: 0.1rem 0.5rem;
+    border-radius: 4px;
+    color: var(--secondary-color);
+}
+
 /* Technology Detail Page */
 .technology-page {
     padding: 4rem 0;
