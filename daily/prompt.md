@@ -1,8 +1,12 @@
 Generate a page in "/daily" root folder with the current date as file name (YYYYMMDD.md) containing content regarding AI:
-- Ideally in French, elsewhere in English
+- One in French in the fr subfolder, the same in English in the en subfolder, with a link between themselves
+- A Chuck Norris quote, with kind of message "RIP"
 - At most 3 important news with the title, a brief description and a link to the detailed description
-- A trend based on several inputs and its brief description
+- A trend and its brief description, maybe its evolution
 - The presentation of one resource, with its name, a brief description and the link to the resource
-- The presentation of one tool, regardless the category of the tool, with its name, its company, a brief description and the link to the tool
+- The presentation of one tool, regardless of the category of the tool, with its name, its company, a brief description and the link to the tool
 - The presentation of one key person of the AI, with its picture, name, a brief description and the link to his main resource
 - One topic or skill or practice or technology that is important to know, like LLM, RAG, Agentic… with a short presentation. Can be just one part of this topic, and the other parts can be handled in a future summary.
+- For each item, give an idea of it is stable or volatile (evolving quickly)
+- Add at the bottom a disclaimer saying that is generated with AI
+- Update the index.html page to link to the page, in the English version
