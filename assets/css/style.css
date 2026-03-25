@@ -127,7 +127,7 @@ body {
     margin-right: auto;
 }
 
-#tech-search {
+#tech-search, #archive-search {
     width: 100%;
     padding: 0.85rem 1.25rem;
     border: 2px solid var(--border-color);
@@ -138,7 +138,7 @@ body {
     transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-#tech-search:focus {
+#tech-search:focus, #archive-search:focus {
     border-color: var(--primary-color);
     box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.1);
 }
@@ -196,6 +196,26 @@ body {
 .badge.category.linkable, .badge.tag.linkable { text-decoration: none; transition: background 0.2s; }
 .badge.category.linkable:hover { background: #bfdbfe; }
 .badge.tag.linkable:hover { background: #e9d5ff; }
+
+/* Language Selector */
+.lang-selector {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: wrap;
+}
+
+.lang-btn {
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+}
+
+.lang-btn.active {
+    background: var(--primary-color) !important;
+    color: white !important;
+}
 
 .card-description {
     font-size: 0.95rem;

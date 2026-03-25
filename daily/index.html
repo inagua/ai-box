@@ -11,28 +11,82 @@ title: "Daily AI Archives"
         <div class="categories-nav">
             <a href="{{ '/' | relative_url }}" class="badge category linkable">Back to home</a>
         </div>
+
+        <div class="categories-nav lang-selector" style="margin-top: 2rem;">
+            <span class="nav-label">Language / Langue:</span>
+            <button class="badge category linkable lang-btn active" data-lang="all">All</button>
+            <button class="badge category linkable lang-btn" data-lang="en">English</button>
+            <button class="badge category linkable lang-btn" data-lang="fr">Français</button>
+        </div>
+
+        <div class="search-container" style="margin-top: 1.5rem;">
+            <input type="text" id="archive-search" placeholder="Search archives / Rechercher dans les archives..." aria-label="Search archives">
+        </div>
     </div>
 </section>
 
 <section class="daily-archives">
     <div class="container">
-        <div class="tech-grid">
-            {% assign daily_pages = site.pages | where_exp: "item", "item.path contains 'daily/'" | where_exp: "item", "item.name != 'index.html'" | sort: "date" | reverse %}
-            {% for page in daily_pages %}
-            <a href="{{ page.url | relative_url }}" class="card">
+        <div class="tech-grid" id="archives-grid">
+            {% assign daily_pages = site.pages | where: "layout", "daily" | sort: "date" | reverse %}
+            {% for item in daily_pages %}
+            {% assign item_lang = "en" %}
+            {% if item.path contains "daily/fr/" %}
+                {% assign item_lang = "fr" %}
+            {% endif %}
+            <a href="{{ item.url | relative_url }}" class="card" data-lang="{{ item_lang }}">
                 <div class="card-meta">
-                    <span class="badge release-date">{{ page.date | date: "%B %d, %Y" }}</span>
+                    <span class="badge release-date">{{ item.date | date: "%B %d, %Y" }}</span>
+                    <span class="badge version">{{ item_lang | upcase }}</span>
                 </div>
-                <h3>{{ page.title }}</h3>
+                <h3>{{ item.title }}</h3>
                 <div class="card-description" style="font-size: 0.9rem; margin-top: 1rem; display: flex; flex-direction: column; gap: 0.5rem;">
-                    <div><span class="badge status-detailed" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">News</span> {{ page.news_summary }}</div>
-                    <div><span class="badge category" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Resource</span> {{ page.resource }}</div>
-                    <div><span class="badge tag" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Tool</span> {{ page.tool }}</div>
-                    <div><span class="badge version" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Person</span> {{ page.person }}</div>
-                    <div><span class="badge status-toreview" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Topic</span> {{ page.technology }}</div>
+                    <div><span class="badge status-detailed" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">News</span> {{ item.news_summary }}</div>
+                    <div><span class="badge category" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Resource</span> {{ item.resource }}</div>
+                    <div><span class="badge tag" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Tool</span> {{ item.tool }}</div>
+                    <div><span class="badge version" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Person</span> {{ item.person }}</div>
+                    <div><span class="badge status-toreview" style="font-size: 0.65rem; padding: 2px 8px; margin-right: 5px;">Topic</span> {{ item.technology }}</div>
                 </div>
             </a>
             {% endfor %}
         </div>
     </div>
 </section>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        const searchInput = document.getElementById('archive-search');
+        const langBtns = document.querySelectorAll('.lang-btn');
+        const cards = document.querySelectorAll('.card');
+        let currentLang = 'all';
+
+        function filterCards() {
+            const searchTerm = searchInput.value.toLowerCase();
+
+            cards.forEach(card => {
+                const lang = card.getAttribute('data-lang');
+                const text = card.textContent.toLowerCase();
+                
+                const langMatch = currentLang === 'all' || lang === currentLang;
+                const searchMatch = text.includes(searchTerm);
+
+                if (langMatch && searchMatch) {
+                    card.style.display = 'flex';
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+        }
+
+        searchInput.addEventListener('input', filterCards);
+
+        langBtns.forEach(btn => {
+            btn.addEventListener('click', function() {
+                langBtns.forEach(b => b.classList.remove('active'));
+                this.classList.add('active');
+                currentLang = this.getAttribute('data-lang');
+                filterCards();
+            });
+        });
+    });
+</script>
