@@ -19,6 +19,7 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
 - The presentation of one resource, with its name, a brief description and the link to the resource
 - The presentation of one tool, regardless of the category of the tool, with its name, its company, a brief description and the link to the tool
 - The presentation of one key person of the AI, with its picture, name, a brief description and the link to his main resource.
+  (Prioritize using the "picture" URL from the corresponding file in _technologies/ if it exists).
   Use the following HTML structure for the AI Personality section to ensure a consistent layout with a reduced image size:
   <div class="ai-personality-section">
       <img src="IMAGE_URL" alt="NAME" class="ai-personality-img">

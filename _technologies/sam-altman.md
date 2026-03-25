@@ -3,6 +3,7 @@ layout: technology
 name: "Sam Altman"
 status: "ToReview"
 category: "Person"
+picture: "https://avatars.githubusercontent.com/u/191?v=4"
 website: "https://openai.com"
 ---
 

@@ -3,6 +3,7 @@ layout: technology
 name: "Yann LeCun"
 status: "ToReview"
 category: "Person"
+picture: "https://avatars.githubusercontent.com/u/16142?v=4"
 website: "http://yann.lecun.com"
 ---
 

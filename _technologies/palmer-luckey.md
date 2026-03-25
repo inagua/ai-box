@@ -3,6 +3,7 @@ layout: technology
 name: "Palmer Luckey"
 status: "ToReview"
 category: "Person"
+picture: "https://avatars.githubusercontent.com/u/366964?v=4"
 website: "https://www.anduril.com"
 ---
 

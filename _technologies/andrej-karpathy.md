@@ -3,6 +3,7 @@ layout: technology
 name: "Andrej Karpathy"
 status: "ToReview"
 category: "Person"
+picture: "https://avatars.githubusercontent.com/karpathy?v=4"
 tags: ["vibe-coding"]
 website: "https://karpathy.ai"
 ---

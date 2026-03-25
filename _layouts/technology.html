@@ -23,13 +23,19 @@ layout: default
             </div>
         </header>
 
+        {% if page.picture %}
+        <div class="tech-image-container" style="margin-bottom: 2rem; display: flex; justify-content: center;">
+            <img src="{{ page.picture }}" alt="{{ page.name }}" style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid var(--primary-color); box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+        </div>
+        {% endif %}
+
         <section class="tech-content">
             {{ content }}
         </section>
 
         <footer class="tech-footer">
             <a href="{{ page.website }}" class="btn primary-btn" target="_blank">Visit Official Site</a>
-            <a href="{{ "/" | relative_url }}" class="btn secondary-btn">Back to All Tools</a>
+            <a href="{{ '/' | relative_url }}" class="btn secondary-btn">Back to All Tools</a>
         </footer>
     </div>
 </article>

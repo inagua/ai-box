@@ -3,6 +3,7 @@ layout: technology
 name: "Dario Amodei"
 status: "ToReview"
 category: "Person"
+picture: "https://avatars.githubusercontent.com/u/2330456?v=4"
 website: "https://www.anthropic.com"
 ---
 

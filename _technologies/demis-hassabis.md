@@ -3,6 +3,7 @@ layout: technology
 name: "Demis Hassabis"
 status: "ToReview"
 category: "Person"
+picture: "https://avatars.githubusercontent.com/u/1083984?v=4"
 website: "https://deepmind.google"
 ---
 
