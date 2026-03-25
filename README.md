@@ -140,5 +140,5 @@ Update the root index.html file with the link to the new page.
 ### 📅 Daily Archives
 
 - [**View the daily archives index**](daily/)
-- [March 24, 2026](daily/20260324.md)
+- [March 24, 2026 (EN)](daily/en/20260324.md) / [March 24, 2026 (FR)](daily/fr/20260324.md)
 - [March 25, 2026 (EN)](daily/en/20260325.md) / [March 25, 2026 (FR)](daily/fr/20260325.md)
