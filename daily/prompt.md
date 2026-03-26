@@ -10,7 +10,6 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
           </div>
           <div class="chuck-norris-footer">
               <span class="chuck-norris-rip">RIP MESSAGE_HERE</span>
-              <span class="chuck-norris-status">Status/Statut : Stable</span>
           </div>
       </div>
   </div>
@@ -35,6 +34,7 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
       </div>
   </div>
 - One topic or skill or practice or technology that is important to know, like LLM, RAG, Agentic… with a short presentation. Can be just one part of this topic, and the other parts can be handled in a future summary.
-- For each item, give an idea of it is stable or volatile (evolving quickly)
+- For each item except the Chuck Norris quote, give an idea of it is stable or volatile (evolving quickly)
+- For the tool, the person and the technology, create first a page into the _technologies/ folder, and add the link in the corresponding section in the daily page
 - Add at the bottom a disclaimer saying that is generated with AI
 - Update the index.html page to link to the page, in the English version
