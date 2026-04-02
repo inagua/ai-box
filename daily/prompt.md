@@ -13,11 +13,11 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
           </div>
       </div>
   </div>
-- At most 3 important news with the title, a brief description and a link to the detailed description
-- A trend and its brief description, maybe its evolution
-- The presentation of one resource, with its name, a brief description and the link to the resource
-- The presentation of one tool, regardless of the category of the tool, with its name, its company, a brief description and the link to the tool
-- The presentation of one key person of the AI, with its picture, name, a brief description and the link to his main resource.
+- At most 3 important news with the title, a description in 2 paragraphs and a link to the detailed description
+- A trend and its description in 3 paragraphs, maybe its evolution
+- The presentation of one resource, with its name, a description and the link to the resource
+- The presentation of one tool, regardless of the category of the tool, with its name, its company, a description and the link to the tool
+- The presentation of one key person of the AI, with a real photo o them, name, a description including where they are working, and the link to their main resource.
   (Prioritize using the "picture" URL from the corresponding file in _technologies/ if it exists).
   Use the following HTML structure for the AI Personality section to ensure a consistent layout with a reduced image size:
   <div class="ai-personality-section">
@@ -33,7 +33,7 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
           </div>
       </div>
   </div>
-- One topic or skill or practice or technology that is important to know, like LLM, RAG, Agentic… with a short presentation. Can be just one part of this topic, and the other parts can be handled in a future summary.
+- One topic or skill or practice or technology that is important to know, like LLM, RAG, Agentic… with a presentation. Can be just one part of this topic, and the other parts can be handled in a future summary.
 - For each item except the Chuck Norris quote, give an idea of it is stable or volatile (evolving quickly)
 - For the tool, the person and the technology, create first a page into the _technologies/ folder, and add the link in the corresponding section in the daily page
 - Add at the bottom a disclaimer saying that is generated with AI
