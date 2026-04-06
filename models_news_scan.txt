@@ -1,0 +1,440 @@
+daily/en//20260325.md:## 📰 Latest News
+daily/en//20260325.md-1. **NVIDIA Blackwell 2 Ultra Shipments Begin**
+daily/en//20260325.md-   - The new generation of GPUs offers 10x the performance for inference compared to the previous model.
+daily/en//20260325.md-   - [NVIDIA Blog](https://nvidianews.nvidia.com/)
+daily/en//20260325.md-   - *Status: Stable*
+daily/en//20260325.md-
+daily/en//20260325.md-2. **Anthropic Claude 4 Preview**
+daily/en//20260325.md-   - Anthropic unveils a first look at Claude 4, showcasing unprecedented emotional intelligence and long-term memory.
+daily/en//20260325.md-   - [Anthropic News](https://anthropic.com/news)
+daily/en//20260325.md-   - *Status: Volatile*
+daily/en//20260325.md-
+daily/en//20260325.md-3. **OpenAI Sora Public Release**
+daily/en//20260325.md-   - Sora is now available to all users, allowing real-time video generation with perfect temporal consistency.
+daily/en//20260325.md-   - [OpenAI Sora](https://openai.com/sora)
+daily/en//20260325.md-   - *Status: Volatile*
+daily/en//20260325.md-
+daily/en//20260325.md-## 📈 AI Trend
+daily/en//20260325.md-**Agent-to-Agent Economies**
+daily/en//20260325.md-AI agents are now autonomously negotiating with other agents to hire services, negotiate prices, and fulfill complex tasks without human intervention. This trend has evolved from simple tool-calling to full economic autonomy.
+daily/en//20260325.md-- *Status: Volatile*
+daily/en//20260325.md-
+--
+daily/en//20260331.md:## 📰 Latest News
+daily/en//20260331.md-1. **OpenAI GPT-5: The Dawn of AGI Reasoning?**
+daily/en//20260331.md-   - OpenAI officially launches GPT-5, claiming it achieves human-level reasoning across complex domains.
+daily/en//20260331.md-   - [OpenAI News](https://openai.com)
+daily/en//20260331.md-   - *Status: Volatile*
+daily/en//20260331.md-
+daily/en//20260331.md-2. **Anthropic Claude 4 Opus: 1M Token Context Window**
+daily/en//20260331.md-   - Anthropic introduces Claude 4 Opus with improved context handling and superior reasoning capabilities.
+daily/en//20260331.md-   - [Anthropic Blog](https://anthropic.com)
+daily/en//20260331.md-   - *Status: Volatile*
+daily/en//20260331.md-
+daily/en//20260331.md-3. **Google DeepMind Gemini 3 Release**
+daily/en//20260331.md-   - Gemini 3 offers native multimodal reasoning across all senses, surpassing previous benchmarks.
+daily/en//20260331.md-   - [DeepMind News](https://deepmind.google)
+daily/en//20260331.md-   - *Status: Volatile*
+daily/en//20260331.md-
+daily/en//20260331.md-## 📈 AI Trend
+daily/en//20260331.md-**World Models**
+daily/en//20260331.md-AI models are evolving from simple prediction to understanding the physical laws of the world. This trend enables agents to simulate complex scenarios and interact more naturally with the environment.
+daily/en//20260331.md-- *Status: Volatile*
+daily/en//20260331.md-
+--
+daily/en//20260330.md:## 📰 Latest News
+daily/en//20260330.md-1. **Apple Intelligence 3.0: Local LLM with 70B parameters**
+daily/en//20260330.md-   - Apple's new update allows MacBooks and iPhones to run massive models locally for ultra-private and fast AI tasks.
+daily/en//20260330.md-   - [Apple Newsroom](https://www.apple.com/newsroom/)
+daily/en//20260330.md-   - *Status: Stable*
+daily/en//20260330.md-
+daily/en//20260330.md-2. **Stability AI Announces Stable Diffusion 4**
+daily/en//20260330.md-   - The new model offers unparalleled realism and understands complex spatial instructions better than ever.
+daily/en//20260330.md-   - [Stability.ai Blog](https://stability.ai/news)
+daily/en//20260330.md-   - *Status: Volatile*
+daily/en//20260330.md-
+daily/en//20260330.md-3. **Mistral Large 3 Release**
+daily/en//20260330.md-   - Mistral's latest heavyweight model beats GPT-4.5 on several benchmarks while being significantly more efficient.
+daily/en//20260330.md-   - [Mistral AI News](https://mistral.ai/news)
+daily/en//20260330.md-   - *Status: Volatile*
+daily/en//20260330.md-
+daily/en//20260330.md-## 📈 AI Trend
+daily/en//20260330.md-**Multimodal Agentic Workflows**
+daily/en//20260330.md-AI agents are now moving beyond text to handle audio, video, and real-time environment interaction. This trend has evolved from single-modality tasks to complex, multi-step agents that can "see" and "do" in the real world.
+daily/en//20260330.md-- *Status: Volatile*
+daily/en//20260330.md-
+--
+daily/en//20260324.md:## 📰 Latest News
+daily/en//20260324.md-1. **OpenAI Releases GPT-5.5**
+daily/en//20260324.md-   - OpenAI today announced a major update to its flagship model, focusing on complex logical reasoning and a drastic reduction in hallucinations.
+daily/en//20260324.md-   - [Announcement details](https://openai.com/blog/gpt-5-5-launch)
+daily/en//20260324.md-
+daily/en//20260324.md-2. **Standardization of MCP (Model Context Protocol)**
+daily/en//20260324.md-   - A coalition of AI players has ratified version 2.0 of the MCP, facilitating interoperability between AI agents and enterprise databases.
+daily/en//20260324.md-   - [View technical report](https://modelcontextprotocol.io/v2-standard)
+daily/en//20260324.md-
+daily/en//20260324.md-3. **Breakthrough in Sovereign AI in Europe**
+daily/en//20260324.md-   - The Mistral consortium has unveiled a multilingual model optimized for decentralized infrastructure, ensuring total data privacy.
+daily/en//20260324.md-   - [Learn more about Mistral Sovereign](https://mistral.ai/news/sovereign-models)
+daily/en//20260324.md-
+daily/en//20260324.md-## 📚 Resource of the Day
+daily/en//20260324.md-**The AI Index Report 2026**
+daily/en//20260324.md-- Stanford's annual report analyzing the economic, ethical, and technological impact of AI worldwide. Essential reading to understand current trends.
+daily/en//20260324.md-- [Access the report](https://aiindex.stanford.edu/report/)
+daily/en//20260324.md-
+daily/en//20260324.md-## 🛠️ Tool of the Day
+daily/en//20260324.md-**Cursor** (by **Anysphere**)
+daily/en//20260324.md-- Cursor is the most advanced AI-powered code editor (IDE) on the market. It natively integrates language models to assist with writing, debugging, and refactoring code in real-time.
+--
+daily/en//20260404.md:## 📰 Latest News
+daily/en//20260404.md-1. **xAI Launches Grok-3 with Unparalleled Reasoning Capabilities**
+daily/en//20260404.md-   - Elon Musk's xAI has officially released Grok-3, which supposedly outperforms GPT-4o in mathematical reasoning and coding. The model features a 2-million token context window and real-time data integration from the X platform.
+daily/en//20260404.md-   - [xAI Official](https://x.ai)
+daily/en//20260404.md-   - *Status: Volatile*
+daily/en//20260404.md-
+daily/en//20260404.md-2. **Apple Unveils "NeuralMac" - AI-First Hardware Ecosystem**
+daily/en//20260404.md-   - Apple announced a new line of Macs with dedicated hardware for real-time local model processing. These devices are designed to run LLMs up to 100B parameters locally with near-zero latency.
+daily/en//20260404.md-   - [Apple Newsroom](https://apple.com/newsroom)
+daily/en//20260404.md-   - *Status: Stable*
+daily/en//20260404.md-
+daily/en//20260404.md-3. **Breakthrough in AI Energy Efficiency: Neuromorphic Computing**
+daily/en//20260404.md-   - Researchers have demonstrated a 1000x reduction in training energy requirements using a new neuromorphic chip architecture. This could pave the way for sustainable large-scale AI deployment.
+daily/en//20260404.md-   - [MIT News](https://news.mit.edu)
+daily/en//20260404.md-   - *Status: Volatile*
+daily/en//20260404.md-
+daily/en//20260404.md-## 📈 AI Trend
+daily/en//20260404.md-**On-Device Small Language Models (SLMs)**
+daily/en//20260404.md-As hardware becomes more specialized, there is a major shift towards running smaller, optimized models directly on consumer devices. This approach offers several advantages: privacy is significantly improved as data never leaves the device, latency is nearly non-existent, and it works without an internet connection.
+daily/en//20260404.md-
+daily/en//20260404.md-Technologically, this is made possible by techniques like advanced quantization (4-bit or even 1.5-bit) and distillation, where larger "teacher" models train smaller "student" models. We're seeing companies like Microsoft, Google, and Apple all releasing SLMs that punch way above their weight class in terms of parameter count versus performance.
+--
+daily/en//20260401.md:## 📰 Latest News
+daily/en//20260401.md-1. **OpenAI Unveils 'Sora for Sound'**
+daily/en//20260401.md-   - OpenAI launches a new multimodal feature that generates synchronized, high-fidelity audio for video content in one pass.
+daily/en//20260401.md-   - [OpenAI News](https://openai.com/news)
+daily/en//20260401.md-   - *Status: Volatile*
+daily/en//20260401.md-
+daily/en//20260401.md-2. **Microsoft's Copilot for Physical World**
+daily/en//20260401.md-   - A new API allowing Copilot to directly interface with robotic actuators, bringing natural language control to physical environments.
+daily/en//20260401.md-   - [Microsoft Blog](https://microsoft.com/blog)
+daily/en//20260401.md-   - *Status: Volatile*
+daily/en//20260401.md-
+daily/en//20260401.md-3. **Meta Releases Llama 4-70B Early Access**
+daily/en//20260401.md-   - Meta's latest model claims a 40% efficiency boost over its predecessor, optimized for high-performance edge computing.
+daily/en//20260401.md-   - [Meta AI](https://ai.meta.com)
+daily/en//20260401.md-   - *Status: Volatile*
+daily/en//20260401.md-
+daily/en//20260401.md-## 📈 AI Trend
+daily/en//20260401.md-**Physical AI Alignment**
+daily/en//20260401.md-As AI moves from digital screens to physical robots, the focus is shifting towards aligning AI behavior with physical safety and real-world constraints.
+daily/en//20260401.md-- *Status: Volatile*
+daily/en//20260401.md-
+--
+daily/en//20260405.md:## 📰 Latest News
+daily/en//20260405.md-1. **Mistral AI Releases 'Mistral Large 3' with Native Multimodality**
+daily/en//20260405.md-   - Mistral AI has unveiled its latest flagship model, Mistral Large 3, which features native support for image, video, and audio processing. This model aims to compete directly with GPT-5 and Claude 4 in terms of efficiency and reasoning.
+daily/en//20260405.md-   - [Mistral AI News](https://mistral.ai)
+daily/en//20260405.md-   - *Status: Volatile*
+daily/en//20260405.md-
+daily/en//20260405.md-2. **Cognition AI Announces Devin v2 - Fully Integrated Dev Environments**
+daily/en//20260405.md-   - Building on the success of the first autonomous AI software engineer, Cognition AI introduced Devin v2. This update allows Devin to manage its own AWS infrastructure and participate in live team meetings via Slack and Zoom.
+daily/en//20260405.md-   - [Cognition AI Blog](https://cognition-labs.com)
+daily/en//20260405.md-   - *Status: Volatile*
+daily/en//20260405.md-
+daily/en//20260405.md-3. **OpenAI Search: The Future of Real-Time Information Retrieval**
+daily/en//20260405.md-   - OpenAI has officially launched its integrated search engine, replacing traditional keyword-based searches with a conversational, fact-checked interface that synthesizes real-time news into concise answers.
+daily/en//20260405.md-   - [OpenAI Blog](https://openai.com)
+daily/en//20260405.md-   - *Status: Stable*
+daily/en//20260405.md-
+daily/en//20260405.md-## 📈 AI Trend
+daily/en//20260405.md-**Agentic reasoning over model size**
+daily/en//20260405.md-The latest trend in AI is moving away from simply building larger models and instead focusing on how models use their reasoning capabilities in iterative loops. This "agentic" approach allows smaller models to outperform much larger ones by reflecting on their work and self-correcting.
+daily/en//20260405.md-
+daily/en//20260405.md-As the industry hits a "compute wall," efficiency becomes paramount. By breaking down tasks into sub-problems and using specialized tools, AI systems can solve complex engineering and research problems that were previously out of reach for a single forward pass of a massive LLM.
+--
+daily/en//20260402.md:## 📰 Latest News
+daily/en//20260402.md-1. **Google Gemini 1.5 Pro Expands Contextual Awareness**
+daily/en//20260402.md-   - Google releases a significant update to Gemini 1.5 Pro, featuring improved long-context recall and better multi-modal reasoning capabilities across massive datasets.
+daily/en//20260402.md-   - The update aims to reduce retrieval errors in documents exceeding one million tokens, making it a powerful tool for complex enterprise analysis.
+daily/en//20260402.md-   - [Google DeepMind Blog](https://deepmind.google/blog/)
+daily/en//20260402.md-   - *Status: Volatile*
+daily/en//20260402.md-
+daily/en//20260402.md-2. **Anthropic's 'Computer Use' Enters General Availability**
+daily/en//20260402.md-   - Anthropic announces that its "Computer Use" capability is now generally available, allowing Claude models to interact directly with desktop environments and perform complex workflows.
+daily/en//20260402.md-   - Developers are already using it to automate repetitive tasks like software testing and data entry, marking a shift towards more autonomous AI agents.
+daily/en//20260402.md-   - [Anthropic News](https://www.anthropic.com/news)
+daily/en//20260402.md-   - *Status: Volatile*
+daily/en//20260402.md-
+daily/en//20260402.md-3. **Mistral AI Launches Pixtral: A Sovereign Vision Model**
+daily/en//20260402.md-   - Mistral AI introduces Pixtral, a high-performance multi-modal model capable of processing both text and images with industry-leading efficiency.
+daily/en//20260402.md-   - Designed for European data sovereignty, Pixtral offers a competitive alternative to proprietary models for vision-heavy AI applications.
+daily/en//20260402.md-   - [Mistral AI Blog](https://mistral.ai/news/)
+daily/en//20260402.md-   - *Status: Volatile*
+daily/en//20260402.md-
+daily/en//20260402.md-## 📈 AI Trend
+daily/en//20260402.md-**Agentic Workflows**
+--
+daily/en//20260406.md:## 📰 Latest News
+daily/en//20260406.md-1. **Mistral AI Releases Mistral Large 3**
+daily/en//20260406.md-   - Mistral AI has unveiled its latest flagship model, Mistral Large 3, which features native support for over 100 languages and optimized performance for RAG (Retrieval-Augmented Generation) workflows.
+daily/en//20260406.md-   - [Mistral AI News](https://mistral.ai/news)
+daily/en//20260406.md-   - *Status: Volatile*
+daily/en//20260406.md-
+daily/en//20260406.md-2. **Stability AI Announces Stable Diffusion 4**
+daily/en//20260406.md-   - The new model offers unparalleled realism and understands complex spatial instructions better than ever, marking a new era for open-source generative art.
+daily/en//20260406.md-   - [Stability.ai Blog](https://stability.ai/news)
+daily/en//20260406.md-   - *Status: Volatile*
+daily/en//20260406.md-
+daily/en//20260406.md-3. **Apple Intelligence 3.0: High-Parameter Local LLM**
+daily/en//20260406.md-   - Apple's new update allows modern Macs and iPhones to run massive models locally for ultra-private and fast AI tasks without relying on the cloud.
+daily/en//20260406.md-   - [Apple Newsroom](https://www.apple.com/newsroom/)
+daily/en//20260406.md-   - *Status: Stable*
+daily/en//20260406.md-
+daily/en//20260406.md-## 📈 AI Trend
+daily/en//20260406.md-**Multimodal Agentic Workflows**
+daily/en//20260406.md-AI agents are now moving beyond text to handle audio, video, and real-time environment interaction. This trend has evolved from single-modality tasks to complex, multi-step agents that can "see" and "do" in the real world.
+daily/en//20260406.md-
+daily/en//20260406.md-The shift represents a move from passive chatbots to active partners that can browse the web, use desktop tools, and coordinate with other agents to solve high-level objectives.
+--
+daily/en//20260403.md:## 📰 Latest News
+daily/en//20260403.md-1. **OpenAI Offers First Glimpse of GPT-5 Capabilities**
+daily/en//20260403.md-   - OpenAI has shared preliminary benchmarks for its next-generation model, GPT-5, demonstrating significant leaps in PhD-level reasoning and autonomous problem-solving.
+daily/en//20260403.md-   - The model shows a drastic reduction in factual errors and an unprecedented ability to handle complex, multi-step instructions without human intervention.
+daily/en//20260403.md-   - [OpenAI Blog](https://openai.com/blog)
+daily/en//20260403.md-   - *Status: Volatile*
+daily/en//20260403.md-
+daily/en//20260403.md-2. **Groq Unveils LPU v2 with 10x Performance Boost**
+daily/en//20260403.md-   - Groq announced the second generation of its Language Processing Unit, specifically optimized for massive-scale inference of trillion-parameter models.
+daily/en//20260403.md-   - The new hardware promises to make real-time interaction with the most advanced AI models nearly instantaneous for millions of concurrent users.
+daily/en//20260403.md-   - [Groq News](https://groq.com/news)
+daily/en//20260403.md-   - *Status: Volatile*
+daily/en//20260403.md-
+daily/en//20260403.md-3. **Global AI Safety Accord Signed by 50 Nations**
+daily/en//20260403.md-   - In a historic summit, 50 countries have signed a comprehensive agreement to establish shared standards for the testing and deployment of frontier AI systems.
+daily/en//20260403.md-   - The accord focuses on preventing the misuse of advanced models in cybersecurity and biological research while promoting open collaboration on safety research.
+daily/en//20260403.md-   - [Reuters AI News](https://www.reuters.com/technology/)
+daily/en//20260403.md-   - *Status: Stable*
+daily/en//20260403.md-
+daily/en//20260403.md-## 📈 AI Trend
+daily/en//20260403.md-**World Models and Spatial Intelligence**
+--
+daily/en//20260328.md:## 📰 Latest News
+daily/en//20260328.md-1. **Apple Unveils "Siri Intelligence" Major Update**
+daily/en//20260328.md-   - Apple introduces a fully integrated AI layer across its ecosystem, enabling cross-app orchestration and deep context awareness.
+daily/en//20260328.md-   - [Apple Newsroom](https://www.apple.com/newsroom/)
+daily/en//20260328.md-   - *Status: Stable*
+daily/en//20260328.md-
+daily/en//20260328.md-2. **DeepSeek-V4 Release**
+daily/en//20260328.md-   - DeepSeek releases its latest model, surpassing industry benchmarks in coding and mathematical reasoning with even lower latency.
+daily/en//20260328.md-   - [DeepSeek Blog](https://www.deepseek.com/)
+daily/en//20260328.md-   - *Status: Volatile*
+daily/en//20260328.md-
+daily/en//20260328.md-3. **Meta AR Glasses Integration with Llama 4**
+daily/en//20260328.md-   - Meta announces that its upcoming AR glasses will feature a lightweight Llama 4 model running locally for real-time translation and object recognition.
+daily/en//20260328.md-   - [Meta News](https://about.fb.com/news/)
+daily/en//20260328.md-   - *Status: Volatile*
+daily/en//20260328.md-
+daily/en//20260328.md-## 📈 AI Trend
+daily/en//20260328.md-**Personalized AI OS**
+daily/en//20260328.md-The industry is shifting from standalone chatbots to AI-centric operating systems where every system call is mediated by a personalized assistant that understands your workflow.
+daily/en//20260328.md-- *Status: Volatile*
+daily/en//20260328.md-
+--
+daily/en//20260327.md:## 📰 Latest News
+daily/en//20260327.md-1. **OpenAI releases GPT-5**
+daily/en//20260327.md-   - A massive step forward in reasoning and multi-modal capabilities, featuring near-human intuition in complex tasks.
+daily/en//20260327.md-   - [OpenAI News](https://openai.com)
+daily/en//20260327.md-   - *Status: Volatile*
+daily/en//20260327.md-
+daily/en//20260327.md-2. **Mistral AI’s New Frontier Model**
+daily/en//20260327.md-   - Mistral AI unveils its latest model that surpasses GPT-4 in several multilingual benchmarks.
+daily/en//20260327.md-   - [Mistral AI](https://mistral.ai)
+daily/en//20260327.md-   - *Status: Volatile*
+daily/en//20260327.md-
+daily/en//20260327.md-3. **Stability AI and Midjourney Merge**
+daily/en//20260327.md-   - The two giants of generative art join forces to create the most powerful image and video generation ecosystem.
+daily/en//20260327.md-   - [Stability AI](https://stability.ai)
+daily/en//20260327.md-   - *Status: Stable*
+daily/en//20260327.md-
+daily/en//20260327.md-## 📈 AI Trend
+daily/en//20260327.md-**On-Device LLMs**
+daily/en//20260327.md-High-performance LLMs are now running locally on smartphones, ensuring privacy and offline functionality. This trend has evolved from cloud-only processing to efficient on-device inference thanks to hardware optimization.
+daily/en//20260327.md-- *Status: Volatile*
+daily/en//20260327.md-
+--
+daily/en//20260326.md:## 📰 Latest News
+daily/en//20260326.md-1. **OpenAI GPT-5 Official Release Date Set**
+daily/en//20260326.md-   - OpenAI has announced that GPT-5 will be released on April 15, 2026, promising human-level reasoning capabilities across all domains.
+daily/en//20260326.md-   - [OpenAI Blog](https://openai.com/blog)
+daily/en//20260326.md-   - *Status: Volatile*
+daily/en//20260326.md-
+daily/en//20260326.md-2. **Mistral Large 3 Performance Surge**
+daily/en//20260326.md-   - Mistral AI releases Large 3, which outperforms all current open-weights models and matches GPT-4o in multi-step reasoning.
+daily/en//20260326.md-   - [Mistral AI News](https://mistral.ai/news)
+daily/en//20260326.md-   - *Status: Volatile*
+daily/en//20260326.md-
+daily/en//20260326.md-3. **Microsoft Copilot Studio 2.0 with Full Autonomy**
+daily/en//20260326.md-   - Microsoft unveils Copilot Studio 2.0, allowing users to create fully autonomous AI agents that can manage entire workflows with zero human oversight.
+daily/en//20260326.md-   - [Microsoft Blog](https://blog.microsoft.com/)
+daily/en//20260326.md-   - *Status: Volatile*
+daily/en//20260326.md-
+daily/en//20260326.md-## 📈 AI Trend
+daily/en//20260326.md-**In-Context Learning Scaling**
+daily/en//20260326.md-Models are now able to learn entirely new tasks from few-shot examples within a single context window of 10M tokens, making fine-tuning obsolete for many enterprise applications.
+daily/en//20260326.md-- *Status: Volatile*
+daily/en//20260326.md-
+daily/en//20260325.md:## 🛠️ Tool of the Day
+daily/en//20260325.md-**Bolt.new** (by **StackBlitz**)
+daily/en//20260325.md-An AI-powered full-stack web development environment that runs entirely in the browser, allowing for instant deployment and collaboration.
+daily/en//20260325.md-- [Official Site](https://bolt.new/)
+daily/en//20260325.md-- *Status: Volatile*
+daily/en//20260325.md-
+daily/en//20260325.md-## 👤 AI Personality
+daily/en//20260325.md-<div class="ai-personality-section">
+daily/en//20260325.md-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Jensen_Huang_%28cropped%29.jpg" alt="Jensen Huang" class="ai-personality-img">
+daily/en//20260325.md-    <div class="ai-personality-content">
+daily/en//20260325.md-        <span class="ai-personality-name">Jensen Huang</span>
+--
+daily/en//20260331.md:## 🛠️ Tool of the Day
+daily/en//20260331.md-**Midjourney** (by **Midjourney**)
+daily/en//20260331.md-A powerful generative AI tool that creates stunning images from natural language descriptions, known for its unique artistic style.
+daily/en//20260331.md-- [Official Site](https://www.midjourney.com) | [Technical Sheet]({{ site.baseurl }}/technologies/midjourney/)
+daily/en//20260331.md-- *Status: Volatile*
+daily/en//20260331.md-
+daily/en//20260331.md-## 👤 AI Personality
+daily/en//20260331.md-<div class="ai-personality-section">
+daily/en//20260331.md-    <img src="https://profiles.stanford.edu/proxy/api/profiles/v1/public/profiles/54823/profile_photo?size=240x240" alt="Fei-Fei Li" class="ai-personality-img">
+daily/en//20260331.md-    <div class="ai-personality-content">
+daily/en//20260331.md-        <span class="ai-personality-name">Fei-Fei Li</span>
+--
+daily/en//20260330.md:## 🛠️ Tool of the Day
+daily/en//20260330.md-**Grok-4** (by **xAI**)
+daily/en//20260330.md-The latest multimodal model with real-time X data access, offering a more direct and unfiltered personality.
+daily/en//20260330.md-- [Official Site](https://x.ai/grok) | [Technical Sheet]({{ site.baseurl }}/technologies/grok-4/)
+daily/en//20260330.md-- *Status: Volatile*
+daily/en//20260330.md-
+daily/en//20260330.md-## 👤 AI Personality
+daily/en//20260330.md-<div class="ai-personality-section">
+daily/en//20260330.md-    <img src="https://avatars.githubusercontent.com/u/10410425?v=4" alt="Aravind Srinivas" class="ai-personality-img">
+daily/en//20260330.md-    <div class="ai-personality-content">
+daily/en//20260330.md-        <span class="ai-personality-name">Aravind Srinivas</span>
+--
+daily/en//20260324.md:## 🛠️ Tool of the Day
+daily/en//20260324.md-**Cursor** (by **Anysphere**)
+daily/en//20260324.md-- Cursor is the most advanced AI-powered code editor (IDE) on the market. It natively integrates language models to assist with writing, debugging, and refactoring code in real-time.
+daily/en//20260324.md-- [Official Site](https://cursor.com/) | [Technical Sheet]({{ site.baseurl }}/technologies/cursor/)
+daily/en//20260324.md-
+daily/en//20260324.md-## 👤 AI Personality
+daily/en//20260324.md-<div class="ai-personality-section">
+daily/en//20260324.md-    <img src="https://avatars.githubusercontent.com/karpathy?v=4" alt="Andrej Karpathy" class="ai-personality-img">
+daily/en//20260324.md-    <div class="ai-personality-content">
+daily/en//20260324.md-        <span class="ai-personality-name">Andrej Karpathy</span>
+daily/en//20260324.md-        <p class="ai-personality-description">Co-founder of OpenAI and former Director of AI at Tesla. He is recognized for his exceptional teaching talent, notably through his "Zero to Hero" series that teaches building LLMs from scratch.</p>
+--
+daily/en//20260404.md:## 🛠️ Tool of the Day
+daily/en//20260404.md-**Grok-3** (by **xAI**)
+daily/en//20260404.md-A powerful large language model integrated with real-time social data, known for its edgy personality and high-performance reasoning in technical fields.
+daily/en//20260404.md-- [Official Site](https://x.ai/grok) | [Technical Sheet]({{ site.baseurl }}/technologies/grok-3/)
+daily/en//20260404.md-- *Status: Volatile*
+daily/en//20260404.md-
+daily/en//20260404.md-## 👤 AI Personality
+daily/en//20260404.md-<div class="ai-personality-section">
+daily/en//20260404.md-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Elon_Musk_Royal_Society.jpg" alt="Elon Musk" class="ai-personality-img">
+daily/en//20260404.md-    <div class="ai-personality-content">
+daily/en//20260404.md-        <span class="ai-personality-name">Elon Musk</span>
+--
+daily/en//20260401.md:## 🛠️ Tool of the Day
+daily/en//20260401.md-**Mistral Chat** (by **Mistral AI**)
+daily/en//20260401.md-A versatile AI chat platform leveraging Mistral's latest sovereign models for privacy-first, high-speed interactions.
+daily/en//20260401.md-- [Official Site](https://mistral.ai) | [Technical Sheet]({{ site.baseurl }}/technologies/mistral-ai/)
+daily/en//20260401.md-- *Status: Volatile*
+daily/en//20260401.md-
+daily/en//20260401.md-## 👤 AI Personality
+daily/en//20260401.md-<div class="ai-personality-section">
+daily/en//20260401.md-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Andrew_Ng_at_TechCrunch_Disrupt_San_Francisco_2017.jpg" alt="Andrew Ng" class="ai-personality-img">
+daily/en//20260401.md-    <div class="ai-personality-content">
+daily/en//20260401.md-        <span class="ai-personality-name">Andrew Ng</span>
+--
+daily/en//20260405.md:## 🛠️ Tool of the Day
+daily/en//20260405.md-**Devin** (by **Cognition AI**)
+daily/en//20260405.md-The world's first fully autonomous AI software engineer, capable of handling entire development cycles, from planning to deployment.
+daily/en//20260405.md-- [Official Site](https://cognition-labs.com) | [Technical Sheet]({{ site.baseurl }}/technologies/devin/)
+daily/en//20260405.md-- *Status: Volatile*
+daily/en//20260405.md-
+daily/en//20260405.md-## 👤 AI Personality
+daily/en//20260405.md-<div class="ai-personality-section">
+daily/en//20260405.md-    <img src="https://cognition-labs.com/static/images/team/scott-wu.jpg" alt="Scott Wu" class="ai-personality-img">
+daily/en//20260405.md-    <div class="ai-personality-content">
+daily/en//20260405.md-        <span class="ai-personality-name">Scott Wu</span>
+--
+daily/en//20260402.md:## 🛠️ Tool of the Day
+daily/en//20260402.md-**LangSmith** (by **LangChain**)
+daily/en//20260402.md-A comprehensive platform for debugging, testing, and monitoring LLM applications, helping developers move from prototype to production with confidence.
+daily/en//20260402.md-- [Official Site](https://smith.langchain.com) | [Technical Sheet]({{ site.baseurl }}/technologies/langsmith/)
+daily/en//20260402.md-- *Status: Volatile*
+daily/en//20260402.md-
+daily/en//20260402.md-## 👤 AI Personality
+daily/en//20260402.md-<div class="ai-personality-section">
+daily/en//20260402.md-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Noam_Shazeer_2024.jpg" alt="Noam Shazeer" class="ai-personality-img">
+daily/en//20260402.md-    <div class="ai-personality-content">
+daily/en//20260402.md-        <span class="ai-personality-name">Noam Shazeer</span>
+--
+daily/en//20260406.md:## 🛠️ Tool of the Day
+daily/en//20260406.md-**Claude 4** (by **Anthropic**)
+daily/en//20260406.md-The latest multimodal model from Anthropic, offering a more direct and unfiltered personality with a massive context window for complex data analysis.
+daily/en//20260406.md-- [Official Site](https://www.anthropic.com/claude) | [Technical Sheet]({{ site.baseurl }}/technologies/claude-4/)
+daily/en//20260406.md-- *Status: Volatile*
+daily/en//20260406.md-
+daily/en//20260406.md-## 👤 AI Personality
+daily/en//20260406.md-<div class="ai-personality-section">
+daily/en//20260406.md-    <img src="https://avatars.githubusercontent.com/u/2330456?v=4" alt="Dario Amodei" class="ai-personality-img">
+daily/en//20260406.md-    <div class="ai-personality-content">
+daily/en//20260406.md-        <span class="ai-personality-name">Dario Amodei</span>
+--
+daily/en//20260403.md:## 🛠️ Tool of the Day
+daily/en//20260403.md-**Groq** (by **Groq**)
+daily/en//20260403.md-A high-performance AI inference platform powered by the LPU™ (Language Processing Unit™), designed to deliver the world's fastest speeds for large language models.
+daily/en//20260403.md-- [Official Site](https://groq.com) | [Technical Sheet]({{ site.baseurl }}/technologies/groq/)
+daily/en//20260403.md-- *Status: Stable*
+daily/en//20260403.md-
+daily/en//20260403.md-## 👤 AI Personality
+daily/en//20260403.md-<div class="ai-personality-section">
+daily/en//20260403.md-    <img src="https://profiles.stanford.edu/proxy/api/profiles/v1/public/profiles/54823/profile_photo?size=240x240" alt="Fei-Fei Li" class="ai-personality-img">
+daily/en//20260403.md-    <div class="ai-personality-content">
+daily/en//20260403.md-        <span class="ai-personality-name">Fei-Fei Li</span>
+--
+daily/en//20260328.md:## 🛠️ Tool of the Day
+daily/en//20260328.md-**Vanna.AI** (by **Vanna**)
+daily/en//20260328.md-An open-source Python RAG framework for SQL generation that simplifies natural language queries on databases.
+daily/en//20260328.md-- [Official Site](https://vanna.ai/) | [Technical Sheet]({{ site.baseurl }}/technologies/vanna-ai/)
+daily/en//20260328.md-- *Status: Stable*
+daily/en//20260328.md-
+daily/en//20260328.md-## 👤 AI Personality
+daily/en//20260328.md-<div class="ai-personality-section">
+daily/en//20260328.md-    <img src="https://pbs.twimg.com/profile_images/1668875737525125120/XvW8_89__400x400.jpg" alt="Arthur Mensch" class="ai-personality-img">
+daily/en//20260328.md-    <div class="ai-personality-content">
+daily/en//20260328.md-        <span class="ai-personality-name">Arthur Mensch</span>
+--
+daily/en//20260327.md:## 🛠️ Tool of the Day
+daily/en//20260327.md-**Exa** (by **Exa**)
+daily/en//20260327.md-An AI-native search engine designed for the future of search, focusing on semantic similarity and understanding.
+daily/en//20260327.md-- [Official Site](https://exa.ai) | [Technical Sheet]({{ site.baseurl }}/technologies/exa/)
+daily/en//20260327.md-- *Status: Volatile*
+daily/en//20260327.md-
+daily/en//20260327.md-## 👤 AI Personality
+daily/en//20260327.md-<div class="ai-personality-section">
+daily/en//20260327.md-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mira_Murati_2023.png" alt="Mira Murati" class="ai-personality-img">
+daily/en//20260327.md-    <div class="ai-personality-content">
+daily/en//20260327.md-        <span class="ai-personality-name">Mira Murati</span>
+--
+daily/en//20260326.md:## 🛠️ Tool of the Day
+daily/en//20260326.md-**Perplexity AI** (by **Perplexity AI**)
+daily/en//20260326.md-A search engine that uses AI to provide direct, source-backed answers, significantly changing how we interact with information online.
+daily/en//20260326.md-- [Official Site](https://www.perplexity.ai) | [Technical Sheet]({{ site.baseurl }}/technologies/perplexity/)
+daily/en//20260326.md-- *Status: Stable*
+daily/en//20260326.md-
+daily/en//20260326.md-## 👤 AI Personality
+daily/en//20260326.md-<div class="ai-personality-section">
+daily/en//20260326.md-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Ilya_Sutskever_at_the_AI_For_Good_Summit_2024.jpg" alt="Ilya Sutskever" class="ai-personality-img">
+daily/en//20260326.md-    <div class="ai-personality-content">
+daily/en//20260326.md-        <span class="ai-personality-name">Ilya Sutskever</span>
