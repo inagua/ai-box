@@ -26,6 +26,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>GPT Series (OpenAI)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">GPT-5.5 Turbo</span>
+                        <span class="version-date">April 7, 2026</span>
+                        <p>2.5x speed improvement, advanced multi-step reasoning, and enhanced multimodal support.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260407.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">GPT-5.5</span>
                         <span class="version-date">March 24, 2026</span>
                         <p>Major update focusing on complex logical reasoning and drastic reduction in hallucinations.</p>

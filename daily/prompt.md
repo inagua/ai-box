@@ -1,6 +1,6 @@
 Generate a page in "/daily" root folder with the current date as file name (YYYYMMDD.md) containing content regarding AI:
 - One in French in the fr subfolder, the same in English in the en subfolder, with a link between themselves
-- A Chuck Norris quote about AI/hallucinations, with a message like "RIP hallucinations" (localized in the French version).
+- A Chuck Norris quote about AI, with a message RIP.
   Use the following HTML structure for the Chuck Norris section to ensure a consistent and improved layout:
   <div class="chuck-norris-section">
       <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Chuck_Norris_May_2015.jpg" alt="Chuck Norris" class="chuck-norris-img">
@@ -13,7 +13,7 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
           </div>
       </div>
   </div>
-- At most 3 important news with the title, a description in 2 paragraphs and a link to the detailed description
+- At most 3 important news with the title, a description in 2 paragraphs and a link to the detailed description. If a news is about a new model version, complete the models.md file with the details of the new model version and a link to this generated file in English.
 - A trend and its description in 3 paragraphs, maybe its evolution
 - The presentation of one resource, with its name, a description and the link to the resource
 - The presentation of one tool, regardless of the category of the tool, with its name, its company, a description and the link to the tool
