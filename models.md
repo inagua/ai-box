@@ -26,6 +26,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>GPT Series (OpenAI)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">SORA 2.0 (Preview)</span>
+                        <span class="version-date">April 8, 2026</span>
+                        <p>Physics-integrated latent space for realistic motion and interactive world-editing capabilities.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260408.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">GPT-5.5 Turbo</span>
                         <span class="version-date">April 7, 2026</span>
                         <p>2.5x speed improvement, advanced multi-step reasoning, and enhanced multimodal support.</p>
@@ -59,6 +65,12 @@ title: "AI Models Roadmap & Versions"
                 </div>
                 <h3>Claude Series (Anthropic)</h3>
                 <div class="version-history">
+                    <div class="version-item">
+                        <span class="version-tag">Claude 4.5 Opus</span>
+                        <span class="version-date">April 8, 2026</span>
+                        <p>Refined Constitutional AI framework and native artifact explorer for real-time editing.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260408.html" class="news-link">Read News →</a>
+                    </div>
                     <div class="version-item">
                         <span class="version-tag">Claude 4</span>
                         <span class="version-date">April 6, 2026</span>
@@ -108,14 +120,20 @@ title: "AI Models Roadmap & Versions"
                 </div>
             </div>
 
-            <!-- Google Gemini Series -->
+            <!-- Google Gemini & AlphaCode Series -->
             <div class="card model-card">
                 <div class="card-meta">
-                    <span class="badge category">LLM</span>
+                    <span class="badge category">LLM / Code</span>
                     <a href="{{ site.baseurl }}/technologies/google-gemini/" class="badge tag linkable">Technical Sheet</a>
                 </div>
-                <h3>Gemini Series (Google DeepMind)</h3>
+                <h3>Gemini & AlphaCode (Google DeepMind)</h3>
                 <div class="version-history">
+                    <div class="version-item">
+                        <span class="version-tag">AlphaCode 3</span>
+                        <span class="version-date">April 8, 2026</span>
+                        <p>Competitive programming model with advanced test-time compute scaling.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260408.html" class="news-link">Read News →</a>
+                    </div>
                     <div class="version-item">
                         <span class="version-tag">Gemini 1.5 Pro (Update)</span>
                         <span class="version-date">April 2, 2026</span>
