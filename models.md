@@ -129,6 +129,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>Gemini & AlphaCode (Google DeepMind)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">Gemini 2.0 Flash</span>
+                        <span class="version-date">April 9, 2026</span>
+                        <p>Lightweight model designed for speed and efficiency with a 2M token context window.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260409.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">AlphaCode 3</span>
                         <span class="version-date">April 8, 2026</span>
                         <p>Competitive programming model with advanced test-time compute scaling.</p>
@@ -180,6 +186,12 @@ title: "AI Models Roadmap & Versions"
                 </div>
                 <h3>Grok Series (xAI)</h3>
                 <div class="version-history">
+                    <div class="version-item">
+                        <span class="version-tag">Grok-3 (Open Weights)</span>
+                        <span class="version-date">April 9, 2026</span>
+                        <p>Release of open weights for Grok-3, specializing in coding and mathematical reasoning.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260409.html" class="news-link">Read News →</a>
+                    </div>
                     <div class="version-item">
                         <span class="version-tag">Grok-4</span>
                         <span class="version-date">March 30, 2026</span>
