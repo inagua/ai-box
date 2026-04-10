@@ -16,7 +16,7 @@ Generate a page in "/daily" root folder with the current date as file name (YYYY
 - At most 3 important news with the title, a description in 2 paragraphs and a link to the detailed description. If a news is about a new model version, complete the models.md file with the details of the new model version and a link to this generated file in English.
 - A trend and its description in 3 paragraphs, maybe its evolution
 - The presentation of one resource, with its name, a description and the link to the resource
-- The presentation of one tool, regardless of the category of the tool, with its name, its company, a description and the link to the tool
+- The presentation of one tool, https://air.dev/ today, regardless of the category of the tool, with its name, its company, a description and the link to the tool
 - The presentation of one key person of the AI, with a real photo o them, name, a description including where they are working, and the link to their main resource.
   (Prioritize using the "picture" URL from the corresponding file in _technologies/ if it exists).
   Use the following HTML structure for the AI Personality section to ensure a consistent layout with a reduced image size:

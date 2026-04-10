@@ -1,9 +1,9 @@
 ---
 layout: technology
 name: "Agentic RAG"
-status: "Volatile"
-category: "Technology"
-tags: ["rag", "agentic"]
+status: "Todo"
+category: "Agentic"
+website: "https://en.wikipedia.org/wiki/Retrieval-augmented_generation"
 ---
 
-Agentic RAG (Retrieval-Augmented Generation) is an advanced evolution of traditional RAG where AI agents are used to intelligently retrieve, filter, and process information. Unlike static RAG, Agentic RAG can use tools and reasoning to decide what to search for and how to interpret the results.
+Agentic RAG (Retrieval-Augmented Generation) is an advanced evolution of standard RAG systems where the retrieval and generation process is managed by an AI agent that can autonomously decide when and where to search for information, and how to verify it.
