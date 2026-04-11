@@ -164,6 +164,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>Llama Series (Meta)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">Llama 4 (General Availability)</span>
+                        <span class="version-date">April 11, 2026</span>
+                        <p>Global rollout of Llama 4 with native multimodal support and improved reasoning efficiency.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260411.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">Llama 4 (Official)</span>
                         <span class="version-date">April 10, 2026</span>
                         <p>Most capable open weights model with 2M context window and advanced reasoning.</p>
