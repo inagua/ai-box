@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Andrej Karpathy"
-status: "ToReview"
+status: "Stable"
 category: "Person"
 picture: "https://avatars.githubusercontent.com/karpathy?v=4"
 tags: ["vibe-coding"]

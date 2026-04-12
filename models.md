@@ -129,6 +129,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>Gemini & AlphaCode (Google DeepMind)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">Gemini 2.5 Flash</span>
+                        <span class="version-date">April 12, 2026</span>
+                        <p>Ultra-low latency model with specialized reasoning cores and real-time multimodal streaming.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260412.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">Gemini 2.0 Flash</span>
                         <span class="version-date">April 9, 2026</span>
                         <p>Lightweight model designed for speed and efficiency with a 2M token context window.</p>

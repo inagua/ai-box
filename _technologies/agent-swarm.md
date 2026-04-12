@@ -1,8 +1,9 @@
 ---
 layout: technology
 name: "Agent Swarm"
-status: "ToReview"
+status: "Volatile"
 category: "Agentic"
+picture: "https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&q=80&w=1000"
 website: "https://github.com/openai/swarm"
 ---
 
