@@ -100,6 +100,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>Mistral Series (Mistral AI)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">Mistral Large 3 (Update)</span>
+                        <span class="version-date">April 13, 2026</span>
+                        <p>Latest heavyweight model version with improved multilingual understanding and code generation efficiency.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260413.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">Mistral Large 3</span>
                         <span class="version-date">April 6, 2026</span>
                         <p>Flagship model with native support for 100+ languages and optimized for RAG workflows.</p>
