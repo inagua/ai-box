@@ -26,6 +26,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>GPT Series (OpenAI)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">GPT-6 (Preview)</span>
+                        <span class="version-date">April 14, 2026</span>
+                        <p>Initial preview of the next-generation model with breakthrough autonomous reasoning and planning capabilities.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260414.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">SORA 2.0 (Preview)</span>
                         <span class="version-date">April 8, 2026</span>
                         <p>Physics-integrated latent space for realistic motion and interactive world-editing capabilities.</p>
