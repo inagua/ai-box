@@ -141,6 +141,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>Gemini & AlphaCode (Google DeepMind)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">Gemini 2.5</span>
+                        <span class="version-date">April 15, 2026</span>
+                        <p>Massive 20M token context window and new "reasoning agents" for autonomous deep document analysis.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260415.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">Gemini 2.5 Flash</span>
                         <span class="version-date">April 12, 2026</span>
                         <p>Ultra-low latency model with specialized reasoning cores and real-time multimodal streaming.</p>
@@ -181,6 +187,12 @@ title: "AI Models Roadmap & Versions"
                 </div>
                 <h3>Llama Series (Meta)</h3>
                 <div class="version-history">
+                    <div class="version-item">
+                        <span class="version-tag">Llama 4 (Preview)</span>
+                        <span class="version-date">April 15, 2026</span>
+                        <p>Initial preview of Llama 4 featuring native multimodal architecture and GPT-6 level coding performance.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260415.html" class="news-link">Read News →</a>
+                    </div>
                     <div class="version-item">
                         <span class="version-tag">Llama 4 (General Availability)</span>
                         <span class="version-date">April 11, 2026</span>

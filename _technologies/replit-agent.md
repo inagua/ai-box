@@ -1,7 +1,7 @@
 ---
 layout: technology
 name: "Replit Agent"
-status: "ToReview"
+status: "Stable"
 category: "Platform & Community"
 company: "Replit"
 website: "https://replit.com/ai"

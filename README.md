@@ -5,6 +5,7 @@ A comprehensive GitHub Pages project showcasing the most significant tools, tech
 ## 📋 Table of Contents
 - [🚀 Project Overview](#-project-overview)
   - [Directory Structure](#directory-structure)
+- [🌐 Online Version](#-online-version)
 - [💻 Local Development](#-local-development)
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
@@ -12,6 +13,8 @@ A comprehensive GitHub Pages project showcasing the most significant tools, tech
 - [🛠️ Customization](#-customization)
 - [🏗️ Build Management](#-build-management)
 - [📅 Daily Newsletter](#daily-newsletter)
+  - [Daily Archives](#-daily-archives)
+- [📝 Instructions Guidelines](#-instructions-guidelines)
 
 ## 🚀 Project Overview
 
@@ -29,7 +32,7 @@ The project is built using **Jekyll**, a static site generator that is natively 
 
 ---
 
-## Online Version
+## 🌐 Online Version
 
 - https://inagua.github.io/ai-box/
 
@@ -142,3 +145,8 @@ Update the root index.html file with the link to the new page.
 - [**View the daily archives index**](daily/)
 - [March 24, 2026 (EN)](daily/en/20260324.md) / [March 24, 2026 (FR)](daily/fr/20260324.md)
 - [March 25, 2026 (EN)](daily/en/20260325.md) / [March 25, 2026 (FR)](daily/fr/20260325.md)
+
+
+## 📝 Instructions Guidelines
+
+- https://blog.jetbrains.com/idea/2025/05/coding-guidelines-for-your-ai-agents/
