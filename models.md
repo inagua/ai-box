@@ -26,6 +26,12 @@ title: "AI Models Roadmap & Versions"
                 <h3>GPT Series (OpenAI)</h3>
                 <div class="version-history">
                     <div class="version-item">
+                        <span class="version-tag">SORA (General Availability)</span>
+                        <span class="version-date">April 17, 2026</span>
+                        <p>Public release for all Plus/Team users with new 4K Cinematic Mode and Director Tools.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260417.html" class="news-link">Read News →</a>
+                    </div>
+                    <div class="version-item">
                         <span class="version-tag">GPT-6 (Preview)</span>
                         <span class="version-date">April 14, 2026</span>
                         <p>Initial preview of the next-generation model with breakthrough autonomous reasoning and planning capabilities.</p>
@@ -105,6 +111,12 @@ title: "AI Models Roadmap & Versions"
                 </div>
                 <h3>Mistral Series (Mistral AI)</h3>
                 <div class="version-history">
+                    <div class="version-item">
+                        <span class="version-tag">Mistral 7B v4</span>
+                        <span class="version-date">April 17, 2026</span>
+                        <p>Latest open-weight model with improved sliding window attention and SOTA performance for its size.</p>
+                        <a href="{{ site.baseurl }}/daily/en/20260417.html" class="news-link">Read News →</a>
+                    </div>
                     <div class="version-item">
                         <span class="version-tag">Mistral Large 3 (Update)</span>
                         <span class="version-date">April 13, 2026</span>
